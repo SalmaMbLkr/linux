@@ -27,7 +27,46 @@ Dirígete a la fila 102 (más o menos) y añade o modifica la descripción de es
 # ¡Buena suerte en esta aventura informática! Estamos en el corazón del sistema!
 Añade aquí tu nombre:LYNDA AKO modifico el acelerometer. Grupo Ajedrecista Ghanwa es la mejor, yo meryem y marta aun mas
 Grupo Telekino:
-Romaissae es la mejor
+Salma ha estado presente
+Romaissae 25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+ 62
+es la mejor
 Lucia Layseca ha estado aquí. Yo Sara también.
   If a device needs more specific bindings, such as properties to
   describe some aspect of it, there needs to be a specific binding
@@ -101,8 +140,6 @@ properties:
           - devantech,srf10, Soy          y lo he mejorado el acelerómetro, 
             # DH electronics GmbH on-board CPLD trivial SPI device
           - dh,dhcom-board
-          El uso de acelerómetros en la ofimática del ámbito sanitario se centra principalmente en la salud laboral, la ergonomía y la eficiencia de los profesionales médicos y administrativos que pasan largas jornadas frente al ordenador.
-          (Lucia Layseca)
             # DA9053: flexible system level PMIC with multicore support
           - dlg,da9053El acelorometer pot ser util a la hora de hacer varias tareas en un entorno hospitalario.
             # DMARD05: 3-axis I2C Accelerometer Yo  Ghanwa     he revisado los tres ejes del acelerómetro y he cambiado uno 
